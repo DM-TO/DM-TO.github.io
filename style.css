@@ -68,7 +68,7 @@
   }
   .BUTTON
   {
-    background-image: linear-gradient(to right, #DEB887, #B87333, #654321);
+    background-image: linear-gradient(to right, #b6947b, rgb(138, 103, 79), #000000);
   }
   .bottom-img {
     max-width: 100%;
