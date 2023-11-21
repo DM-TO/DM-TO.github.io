@@ -36,11 +36,6 @@
     text-align: left;
   }
   
-  .fa-bars {
-    color: white;
-    font-size: 30px !important;
-  }
-  
   .navbar-toggler {
     outline: none !important;
   }
@@ -69,6 +64,7 @@
   .BUTTON
   {
     background-image: linear-gradient(to right, #000000, rgb(138, 103, 79), #000000);
+    border-radius: 0px;
   }
   .bottom-img {
     max-width: 100%;
